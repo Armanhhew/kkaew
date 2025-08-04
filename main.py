@@ -4,7 +4,7 @@ import os
 api_id = 11991770
 api_hash = "e0e93d0f4ff01ceed8006d7a0664848b"
 
-target_user_ids = [1992411831]
+target_user_ids = [1992411831,8243718908]
 
 channel_username = "@jvjgjvju"  # یوزرنیم کانالت رو اینجا بزن
 
